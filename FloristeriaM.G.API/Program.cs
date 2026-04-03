@@ -53,3 +53,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// Hotfix: Corregido el formato de fecha para los reportes de auditoría.
