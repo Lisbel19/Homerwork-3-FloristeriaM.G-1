@@ -18,3 +18,5 @@ namespace FloristeriaMG.Domain.Entities
         public Ocasion? Ocasion { get; set; } 
     }
 }
+
+// Validación de entrada de usuario para el nombre de la flor agregada.
